@@ -1,4 +1,4 @@
-# BootWebJsp
+# BootWebJspGradle
 Spring Boot Web with external Tomcat
 <br>
 JSP only. No template engine
