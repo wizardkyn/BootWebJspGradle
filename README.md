@@ -16,6 +16,7 @@ Logback<br>
 External Tomcat 8<br>
 Test URL <br>
 Calendar : http://localhost:8080/BootWebJspGradle/calendar.do<br>
+Jsfiddle : https://jsfiddle.net/wizardkyn/1zavmks8/<br>
 HighCharts : http://localhost:8080/BootWebJspGradle/chartLine.do<br>
 Jsfiddle : https://jsfiddle.net/wizardkyn/kxjwknnf/
 
